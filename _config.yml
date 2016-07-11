@@ -1,0 +1,28 @@
+name: Intermodal Connection
+favicon: null
+layout_spectrum: 0.7905796358827502
+typography_spectrum: 0.2639748342335224
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4486234770156443
+  lightness: 0.4820536356419325
+  saturation: 0.3119216812774539
+  rhythmicContrast: 0.053217560751363635
+purpose: []
